@@ -2,7 +2,7 @@
 
 Okay, so here it goes.
 
- I'm Santosh currently a Fourth Year CSE student  and an aspiring software developer. Interested in working on automation tasks, APIs , datascience and machine learning. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming XD 
+ I'm Santosh currently a Fourth Year CSE student  and an aspiring software developer. Interested in working on automation tasks, APIs , datascience and machine learning. I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming XD 
  
  It's pretty fun to be able to create whatever you want to (at least virtually if not in real life).
 
