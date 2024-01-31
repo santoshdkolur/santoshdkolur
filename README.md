@@ -1,5 +1,5 @@
 ## Santosh Kolur ---- @santoshdkolur
-
+(Old ReadmeFile)
 Okay, so here it goes.
 
  I'm Santosh currently a Fourth Year CSE student  and an aspiring software developer. Interested in working on automation tasks, APIs , datascience and machine learning. I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming XD 
